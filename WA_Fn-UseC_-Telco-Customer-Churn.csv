@@ -1,0 +1,12 @@
+,Predicted Churn,,,Metrics,
+Actual Churn,No,Yes,,Accuracy ,0.8
+No,1390,150,,Sensitivity,0.53
+Yes,263,298,,Specificity,0.89
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,Predicted Churn,,,Metrics,
+Actual Churn,No,Yes,,Accuracy ,0.76
+No,1182,367,,Sensitivity,0.75
+Yes,137,424,,Specificity,0.76
